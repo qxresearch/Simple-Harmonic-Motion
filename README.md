@@ -71,7 +71,7 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 ### Requirements
 
 * Python
-* Python Libraries: `Numpy` `Matplotlib`
+* Python Libraries: `Numpy` `Matplotlib` `Scipy`
 
 
 ### Clone This Repository
