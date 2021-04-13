@@ -109,7 +109,5 @@ Any kind of contributions to `qxreseach/Simple-Harmonic-Motion` are welcome. Whi
     <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/issues">Report Bug</a>
     ·
     <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/issues">Request Feature</a>
-    <br>
-    <br />
   </p>
 </p>
