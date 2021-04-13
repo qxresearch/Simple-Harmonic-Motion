@@ -63,9 +63,9 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 
 Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating an issue(for this project) use `Voice-Recorder` Label.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
+1. [Fork](https://github.com/qxresearch/Simple-Harmonic-Motion/fork) the Project
 2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+3. Open a [Pull Request](https://github.com/qxresearch/Simple-Harmonic-Motion/pulls)
 
 ### Become Official Member @qxresearch
 
