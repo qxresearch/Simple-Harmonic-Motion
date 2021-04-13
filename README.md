@@ -23,6 +23,8 @@ Programming is influencing all disciplines and helping scientiests discover in t
 
 <kbd><a href="https://qxresearch.github.io/qxresearch/"><img title="Abstract" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/qxresearch%20shm%20by%20xiaowuc2.png"/></a></kbd><br/>
 
+<br>
+</br>
 
 ### What is SHM? 
 In mechanics and physics, simple harmonic motion is a special type of periodic motion where the restoring force on the moving object is directly proportional to the object's displacement magnitude and acts towards the object's equilibrium position.
@@ -54,6 +56,8 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 - Program SHM-2.py will plot a spring simulation 
 - Download the code and run(double click) the .py file to plot the graph
  
+ <br>
+</br>
  
 ### Demo: 
 
