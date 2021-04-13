@@ -73,14 +73,16 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 * Python
 * Python Libraries: `Numpy` `Matplotlib`
 
-<br>
-</br>
 
 ### Clone This Repository
 
 ```
 git clone https://github.com/qxresearch/Simple-Harmonic-Motion
 ```
+
+
+<br>
+</br>
 
 ### Contributing
 
