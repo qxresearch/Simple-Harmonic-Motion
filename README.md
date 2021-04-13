@@ -60,7 +60,7 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/SHM%20Demo%201.gif" alt="Logo" width="400" height="406">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/SHM%20Demo%202.gif" alt="Logo" width="500" height="402">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/SHM%20Demo%202.gif" alt="Logo" width="450" height="352">
   </a>
  
  
