@@ -80,8 +80,12 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 git clone https://github.com/qxresearch/Simple-Harmonic-Motion
 ```
 
+<br>
+</br>
+
 ```
-📑 If you think this project has helped you learn something new you can give a star and if you think it's a bad project do point out 'why' and spam the issue section 🚩. 
+📑 If you think this project has helped you learn something new you can give a star 
+if you think it's a bad project do point out 'why' and spam the issue section 🚩. 
 ```
 
 <br>
