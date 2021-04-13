@@ -34,11 +34,11 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/kisspng-simple-harmonic-motion-circular-motion-circular-or-5b0f7121ecc221.8503569515277386579698.png" alt="Logo">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/kisspng-simple-harmonic-motion-circular-motion-circular-or-5b0f7121ecc221.8503569515277386579698.png" alt="SHM Diagram">
   </a>
 
   <p align="center">
-    Simple Harmonic Motion Equation
+    Fig. Simple Harmonic Motion
   </p>
 </p>
 
