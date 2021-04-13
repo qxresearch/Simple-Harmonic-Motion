@@ -80,13 +80,16 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 git clone https://github.com/qxresearch/Simple-Harmonic-Motion
 ```
 
+```
+📑 If you think this project has helped you learn something new you can give a star and if you think it's a bad project do point out 'why' and spam the issue section 🚩. 
+```
 
 <br>
 </br>
 
 ### Contributing
 
-Any kind of contributions to `qxreseach/Simple-Harmonic-Motion` are welcome. While creating an issue(for this project) use `Voice-Recorder` Label.
+Any kind of contributions to `qxreseach/Simple-Harmonic-Motion` are welcome. While creating an issue(for this project) use `Request-Feature` Label.
 
 1. [Fork](https://github.com/qxresearch/Simple-Harmonic-Motion/fork) the Project
 2. Commit your Changes
