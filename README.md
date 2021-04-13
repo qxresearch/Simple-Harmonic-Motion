@@ -50,8 +50,8 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 
 ### How the program works? 
 
-- Program SHM-1.py will plot a spring simulation 
-- Program SHM-2 is completely user defined program where user can change: frequency, apmlitude and intial phase
+- Program SHM-1.py is console based user defined program where user can change: frequency, apmlitude and intial phase 
+- Program SHM-2.py will plot a spring simulation 
 - Download the code and run(double click) the .py file to plot the graph
  
  
