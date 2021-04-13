@@ -104,7 +104,7 @@ Any kind of contributions to `qxreseach/Simple-Harmonic-Motion` are welcome. Whi
   <p align="center">
     <br>
     <br/>
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">View Demo</a>
+    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">Request Demo</a>
     ·
     <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/issues">Report Bug</a>
     ·
