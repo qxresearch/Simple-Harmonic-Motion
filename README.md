@@ -19,7 +19,7 @@
 
 
 ### Abstract
-The concept of Simple Harmonic Motion is uded to create graph of waves using Python(Numpy | Matplotlib | Scipy) where the user can make changes to the amplitutde, initial phase and frequency of the wave. User can also add a decay or damping constant. User can also plot any SHM graphs using this program. As a demonstration spring simulation has been given in .py format.
+Programming is influencing all disciplines and helping scientiests discover in the field of Science and Mathematics with the help of technology. The concept of Simple Harmonic Motion is uded to create graph of waves using Python(Numpy | Matplotlib | Scipy) where the user can make changes to the amplitutde, initial phase and frequency of the wave. User can also add a decay or damping constant. User can also plot any SHM graphs using this program. As a demonstration spring simulation has been given in .py format.
 
 <kbd><a href="https://qxresearch.github.io/qxresearch/"><img title="Abstract" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/qxresearch%20shm%20by%20xiaowuc2.png"/></a></kbd><br/>
 
