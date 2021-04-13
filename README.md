@@ -83,9 +83,10 @@ git clone https://github.com/qxresearch/Simple-Harmonic-Motion
 <br>
 </br>
 
+### README
 ```
 📑 If you think this project has helped you learn something new you can give a star 
-📜 If you think it's a bad project do point out 'why' and spam the issue section 🚩 
+📑 If you think it's a bad project do point out 'why' and spam the issue section 🚩 
 ```
 
 <br>
