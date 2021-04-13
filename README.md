@@ -55,6 +55,14 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 - Download the code and run(double click) the .py file to plot the graph
  
  
+### Demo: 
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/SHM%20Demo%201.gif" alt="Logo" >
+  </a>
+ 
+ 
 ### Requirements
 
 * Python
