@@ -56,8 +56,6 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 - Program SHM-2.py will plot a spring simulation 
 - Download the code and run(double click) the .py file to plot the graph
  
- <br>
-</br>
  
 ### Demo: 
 
@@ -67,7 +65,9 @@ A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/SHM%20Demo%202.gif" alt="Logo" width="400" height="302">
   </a>
  
- 
+ <br>
+</br>
+
 ### Requirements
 
 * Python
